@@ -1,0 +1,79 @@
+﻿@model WEB_P04_5.Models.Customer
+
+@{
+    ViewData["Title"] = "EditInfo";
+}
+
+<h1>Change Personal Information</h1>
+
+
+<form asp-controller="Customer" asp-action="EditInfo">
+    @using (Html.BeginForm())
+    {
+        <div class="form-horizontal">
+        <h4>User Details</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.MemberID)
+
+         <div class="form-group row">
+            <label asp-for="MAddress"
+                   class="col-sm-3 col-form-label">Address</label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="MAddress" name="Address" class="form-control" />
+                <span asp-validation-for="MAddress"
+                      class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="MEmailAddr"
+                   class="col-sm-3 col-form-label">Email Address</label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="MEmailAddr" name="EmailAddress" class="form-control" />
+
+                <span asp-validation-for="MEmailAddr"
+                      class="text-danger"></span>
+        </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="MTelNo"
+                   class="col-sm-3 col-form-label">Telephone Number</label>
+            <div class="col-sm-9 col-md-5">
+                  <input asp-for="MTelNo" name="TelNo" class="form-control"/>
+                  <span asp-validation-for="MTelNo"
+                      class="text-danger"></span>
+            </div>
+        </div>        
+
+        <div class="form-group row">
+            <label asp-for="MPassword"
+                   class="col-sm-3 col-form-label">New Password</label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="MPassword" name="Password" class="form-control" />
+                <span asp-validation-for="MPassword"
+                      class="text-danger"></span>
+                
+            </div>
+        </div>      
+
+
+       
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+    }
+    
+
+        
+        <div>
+         
+         
+        </div>
+    </>
+</form>

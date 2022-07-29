@@ -1,0 +1,30 @@
+﻿@model WEB_P04_5.Models.Feedback
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4 class="PageTitle">Add Feedback</h4>
+<hr />
+<form asp-action="Create">
+    <fieldset class="FormContent">
+
+        <div class="form-group row">
+            <label asp-for="Title" class="col-sm-3 col-form-label">Name</label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="Title" class="form-control" required/>
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+        </div>
+
+    
+        <div class="form-group row">
+            <div class="col-sm-9 offset-sm-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </div>
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </fieldset>
+</form>

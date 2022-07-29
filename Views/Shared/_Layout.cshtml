@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NP Book Rental</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        @if (Context.Session.GetString("Role") != null)
+        {
+            if (Context.Session.GetString("Role") == "SalesPersonnel")
+            {
+                @await Html.PartialAsync("_SalesMenu.cshtml")
+            }
+            if (Context.Session.GetString("Role") == "MarketingManager")
+            {
+                @await Html.PartialAsync("_MarketingMenu.cshtml")
+            }
+            if (Context.Session.GetString("Role") == "ProductManager")
+            {
+                @await Html.PartialAsync("_ProductMenu.cshtml")
+            }
+            if (Context.Session.GetString("Role") == "Customer")
+            {
+                @await Html.PartialAsync("_CustomerMenu.cshtml")
+            }
+        }
+    </header>
+    <!-- Bootstrap container, centralise the container between margins -->
+    <div class="container">
+        <!-- 1st row -->
+        <div class="row">
+            <div class="col-sm-12">
+                <p style="padding:2px 15px;">
+                    @{
+                        string userId = "Anonymous";
+                        string userRole = "Unknown";
+                        string loginDateTime = "";
+
+                        if (Context.Session.GetString("LoginID") != null)
+                        {
+                            userId = Context.Session.GetString("LoginID");
+                        }
+
+                        if (Context.Session.GetString("Role") != null)
+                        {
+                            userRole = Context.Session.GetString("Role");
+                        }
+
+                        if (Context.Session.GetString("LoginTime") != null)
+                        {
+                            loginDateTime = Context.Session.GetString("LoginTime");
+                        }
+                    }
+                    Welcome,&nbsp;
+                    <span style="font-weight:bold">@userId</span>&nbsp;
+                    (Role: @userRole).&nbsp;
+                    You have logged in since @loginDateTime&nbsp;
+                </p>
+            </div>
+        </div>
+        <!-- 2nd row -->
+        <div class="row">
+            <div class="col-sm-12">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+
+    <footer class="border-top small text-right text-muted">
+        <p style="padding-right:15px; padding-top: 5px">
+            WEB ASG1 - &copy;@DateTime.Today.Year
+        </p>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<WEB_P04_5.Models.Feedback>
+
+@{
+    ViewData["Title"] = "View Feedback";
+}
+
+<h4 class="PageTitle">Feedback List</h4>
+<p><a asp-action="Create">Create New Feedback</a></p>
+<!-- Add a partial view to display a list of staff records
+    in a tabular format. -->
+<partial name="~/Views/Feedback/_ViewFeedback.cshtml" model="@Model" />

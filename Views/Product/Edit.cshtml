@@ -1,0 +1,86 @@
+﻿@model Web_P04_5.Models.Product
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h4 class="PageTitle">Edit Product Record</h4>
+<hr />
+<form asp-action="Edit">
+    <fieldset class="FormContent">
+        <div class="form-group row">
+            <label asp-for="ProductId"
+                   class="col-sm-3 col-form-label"></label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="ProductId" readonly
+                       class="form-control-plaintext" />
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="ProductTitle"
+                   class="col-sm-3 col-form-label"></label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="ProductTitle"
+                       class="form-control" required/>
+                <span asp-validation-for="ProductTitle"
+                      class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="ProductImage"
+                   class="col-sm-3 col-form-label"></label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="ProductImage"
+                       class="form-control" />
+                <span asp-validation-for="ProductImage"
+                      class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="Price"
+                   class="col-sm-3 col-form-label"></label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="Price" class="form-control" required/>
+                <span asp-validation-for="Price"
+                      class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="EffectiveDate"
+                   class="col-sm-3 col-form-label">Launch Date</label>
+            <div class="col-sm-9 col-md-5">
+                <input asp-for="EffectiveDate" readonly class="form-control-plaintext" />
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label asp-for="Obsolete" class="col-sm-3 col-form-label"></label>
+            <div class="col-sm-9 col-md-5">
+                <div class="form-group form-check-inline">
+                    <label class="col-form-label">
+                        <input asp-for="Obsolete" type="radio" value='0' checked class="form-check-input" />
+                        <span style="font-weight:normal; padding-right:20px">Obsolete</span>
+                    </label>
+                    <label class="col-form-label">
+                        <input asp-for="Obsolete" type="radio" value='1' class="form-check-input" />
+                        <span style="font-weight:normal; padding-right:20px">Not Obsolete</span>
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-sm-9 offset-sm-3">
+                <input type="submit" value="Save"
+                       class="btn btn-primary" />
+            </div>
+        </div>
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </fieldset>
+</form>

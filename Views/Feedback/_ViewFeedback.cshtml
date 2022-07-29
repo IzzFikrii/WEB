@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WEB_P04_5.Models.Feedback>
+
+
+
+@if (Model.ToList().Count > 0)
+{
+                    <div class="table-responsive">
+                 <table id="viewStaff" class="table table-striped table-bordered">
+                 <thead class="thead-dark">
+                 <tr>
+                 <th>Feedback ID</th>
+                 <th>Member ID</th>
+                 <th>Date Time Posted</th>
+                 <th>Title Of Feedback</th>
+                 <th>Text Of Feedback</th>
+                 
+                 <th></th>
+                 </tr>
+                 </thead>
+                 <tbody>
+                 @foreach (var item in Model) {
+                 <tr>
+                 <td>@item.FeedbackID</td>
+                 <td>@item.MemberID</td>
+                 <td>@item.DateTimePosted</td>
+                 <td>@item.Title.ToString()</td>
+                 <td>@item.Text.ToString()</td>
+                 <td>
+                 @{ string imageFileName = item.ImageFileName + ".jpg"; }
+                 <img src="~/images/@imageFileName"
+                 style="width:50px" />
+                 </td>
+                 <td>
+                 <a asp-action="Edit" asp-controller="Feedback"
+                 asp-route-id="@item.FeedbackID">Edit</a> |
+                 <a asp-action="Details" asp-controller="Feedback"
+                 asp-route-id="@item.FeedbackID">Details</a> |
+                 <a asp-action="View_Response" asp-controller="Feedback"
+                 asp-route-id="@item.FeedbackID"></a> |
+             
+                 </td>
+                 </tr>
+                    }
+                </tbody>
+        </table>
+                </div>
+}
+                else {
+                 <span style="color:red">No record found!</span>
+                }
+
