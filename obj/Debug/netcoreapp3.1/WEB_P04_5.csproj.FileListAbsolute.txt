@@ -1,0 +1,513 @@
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.exe
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.deps.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.dev.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfo.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.xml
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB_P04_5.styles.css
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.input.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.output.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorCoreGenerate.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Fine\Calculate.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaffMain.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Rental\Calculate.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_StaffMenu.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Staff\Create.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Staff\Delete.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Staff\Edit.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Staff\Index.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Staff\_ViewStaff.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CopyComplete
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.genruntimeconfig.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfo.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.xml
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB_P04_5.styles.css
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.input.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.output.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorCoreGenerate.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaffMain.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.exe
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.deps.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.dev.json
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CopyComplete
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.genruntimeconfig.cache
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SalesMenu.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MarketingMenu.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductMenu.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomerMenu.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ViewProduct.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\user\Desktop\NgeeAnn\Sem3\WEB\ASG1\Checkpoint2\test\web_p04_5\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.exe
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.deps.json
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.json
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.dev.json
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.pdb
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.AssemblyReference.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfoInputs.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfo.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CoreCompileInputs.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.Manifest.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.xml
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\scopedcss\bundle\WEB_P04_5.styles.css
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.input.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.output.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorCoreGenerate.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaffMain.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ViewProduct.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomerMenu.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MarketingMenu.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductMenu.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SalesMenu.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cache
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cs
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CopyComplete
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.dll
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.pdb
+D:\SEM 3\WEB\Assignment1\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.genruntimeconfig.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.StaticWebAssets.xml
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.exe
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.deps.json
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.json
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.runtimeconfig.dev.json
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.pdb
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.AssemblyReference.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfoInputs.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.AssemblyInfo.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CoreCompileInputs.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorAssemblyInfo.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\staticwebassets\WEB_P04_5.StaticWebAssets.Manifest.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.input.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.TagHelpers.output.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorCoreGenerate.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaffMain.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ViewProduct.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomerMenu.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MarketingMenu.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductMenu.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SalesMenu.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.RazorTargetAssemblyInfo.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.Views.pdb
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.csproj.CopyComplete
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.dll
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.pdb
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\WEB_P04_5.genruntimeconfig.cache
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Customer\EditInfo.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\_ViewFeedback.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Index.cshtml.g.cs
+C:\Users\Izz Fikri\Desktop\WEBASSG2\WEB_P04_5\obj\Debug\netcoreapp3.1\Razor\Views\Feedback\Create.cshtml.g.cs
